@@ -57,18 +57,6 @@ Currently at **Affirm** building card-acquisition & digital-wallet flows in Reac
 
 </div>
 
----
-
-### 🏢 Career Path
-
-| Period | Company | Role | Stack |
-|--------|---------|------|-------|
-| 2026 → Now | **Affirm** (via BlueCloud) | Senior Software Engineer | React Native, Expo, Python, Next.js |
-| 2023 – 2026 | **Publicis Global Delivery** | Full-stack Developer | Next.js, Nest.js, React Native, Swift |
-| 2020 – 2023 | **E-Volution** | Software Developer | React Native, Next.js, AWS Lambda, Swift |
-| 2017 – 2020 | **Matriz Technologies** | Software Developer | React Native, Expo, Next.js |
-
----
 
 ### 📊 GitHub Stats
 
